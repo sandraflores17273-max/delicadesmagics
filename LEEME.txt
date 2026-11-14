@@ -1,0 +1,12 @@
+DELICADES MAGIC'S - SITIO WEB
+
+1. Descomprime el archivo ZIP.
+2. Abre la carpeta delicades-magics.
+3. Haz doble clic en index.html para ver el sitio en tu navegador.
+4. Para publicar el sitio, sube la carpeta completa a un hosting estático (por ejemplo Netlify, GitHub Pages o tu hosting).
+
+Las fotografías originales proporcionadas se encuentran en assets/.
+Los precios están configurados tal como se solicitaron.
+El logotipo todavía no fue proporcionado, por eso se utiliza una identidad tipográfica temporal.
+El enlace directo de Facebook queda pendiente; el botón permite solicitarlo por WhatsApp.
+Los testimonios están marcados como ejemplos y deben reemplazarse por reseñas reales antes de publicar.
